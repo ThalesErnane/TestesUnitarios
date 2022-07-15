@@ -1,7 +1,7 @@
 # TestesUnitarios
 Udemy - Testes Unitários em JAVA: Domine JUnit, Mockito e TDD
 
-![Testes Unitarios](ThalesErnane/TestesUnitarios/img.jpeg)
+![Testes Unitarios](/TestesUnitarios/img.jpeg)
 
 ## Tópicos abordados no curso
 
